@@ -1,5 +1,7 @@
-package ua.com.alevel.nix.homework7planets;
+package ua.com.alevel.nix.homework7planets.Service.impl.abst;
 
+
+import ua.com.alevel.nix.homework7planets.Service.Planet;
 
 public abstract class CelestialBody implements Planet {
 

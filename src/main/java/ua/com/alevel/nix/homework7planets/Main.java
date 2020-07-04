@@ -1,5 +1,8 @@
 package ua.com.alevel.nix.homework7planets;
 
+import ua.com.alevel.nix.homework7planets.Service.impl.*;
+import ua.com.alevel.nix.homework7planets.view.PlanetReporter;
+
 public class Main {
 
     public static void main(String[] args) {

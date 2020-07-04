@@ -1,4 +1,4 @@
-package ua.com.alevel.nix.homework7planets;
+package ua.com.alevel.nix.homework7planets.Service;
 
 public interface Planet{
 

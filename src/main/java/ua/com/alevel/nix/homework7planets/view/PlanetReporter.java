@@ -1,4 +1,6 @@
-package ua.com.alevel.nix.homework7planets;
+package ua.com.alevel.nix.homework7planets.view;
+
+import ua.com.alevel.nix.homework7planets.Service.Planet;
 
 public class PlanetReporter {
 
